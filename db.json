@@ -1,10 +1,10 @@
 {
-  "access_room": [
+  "access_room": 
     {
       "roomId": 1,
       "title": "Bienvenu sur la salle de quizz !"
     }
-  ],
+  ,
   "profile": {
     "name": "typicode"
   }
