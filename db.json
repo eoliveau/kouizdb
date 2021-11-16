@@ -8,11 +8,11 @@
   ,
   "room": 
   {
-    "join": 
+    "123456": 
     {
-      "name" : "La room ouech",
-      "startAt" : 12316546574,
-      "socket" : "azeazeaze"
+      "code": 12345,
+      "title": "Bienvenu sur la salle de quizz !",
+      "socket": "azejkhkjh45546645"
     }
   }
 }
