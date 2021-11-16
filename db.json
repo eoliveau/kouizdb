@@ -5,7 +5,11 @@
       "title": "Bienvenu sur la salle de quizz !"
     }
   ,
-  "profile": {
-    "name": "typicode"
+  "room": {
+    "join": {
+      "name" : "La room ouech",
+      "startAt" : 12316546574
+      "socket" : "azeazeaze"
+    }
   }
 }
