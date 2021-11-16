@@ -8,11 +8,9 @@
   ,
   "room": 
   [{
-    "12345": 
-    {
+      "id": 12345,
       "code": 12345,
       "title": "Bienvenu sur la salle de quizz !",
       "socket": "azejkhkjh45546645"
-    }
   }]
 }
