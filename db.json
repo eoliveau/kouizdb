@@ -1,12 +1,15 @@
 {
   "access_room": 
     {
-      "roomId": 1,
-      "title": "Bienvenu sur la salle de quizz !"
+      "code": 12345,
+      "title": "Bienvenu sur la salle de quizz !",
+      "socket": "azejkhkjh45546645"
     }
   ,
-  "room": {
-    "join": {
+  "room": 
+  {
+    "join": 
+    {
       "name" : "La room ouech",
       "startAt" : 12316546574,
       "socket" : "azeazeaze"
