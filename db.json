@@ -8,7 +8,7 @@
   "room": {
     "join": {
       "name" : "La room ouech",
-      "startAt" : 12316546574
+      "startAt" : 12316546574,
       "socket" : "azeazeaze"
     }
   }
